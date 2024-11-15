@@ -7,10 +7,52 @@
     serif;
   box-sizing: border-box;
 
+
+}
+
+body {
+  background-color: #000;
 }
 
 .app {
   min-height: 100vh;
   display: grid;
-  background-color: #e2d4ff;
+  background-color: #000;
 }
+
+/* Extra small devices (phones, < 576px) */
+@media (max-width: 575.98px) {
+
+  /* Styles for small screens */
+  .app {
+    margin-top: 60px;
+  }
+}
+
+/* Small devices (landscape phones, 576px - 767px) */
+/* @media (min-width: 576px) and (max-width: 767.98px) {
+  body {
+    font-size: 15px;
+  }
+} */
+
+/* Medium devices (tablets, 768px - 991px) */
+/* @media (min-width: 768px) and (max-width: 991.98px) {
+  body {
+    font-size: 16px;
+  }
+} */
+
+/* Large devices (desktops, 992px - 1199px) */
+/* @media (min-width: 992px) and (max-width: 1199.98px) {
+  body {
+    font-size: 17px;
+  }
+} */
+
+/* Extra large devices (large desktops, 1200px and above) */
+/* @media (min-width: 1200px) {
+  body {
+    font-size: 18px;
+  }
+} */
