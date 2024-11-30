@@ -75,3 +75,41 @@
     margin-top: 10px;
 }
 
+/* responsive */
+/* Extra small devices (phones, < 576px) */
+@media (max-width: 575.98px) {
+    .weather {
+        padding: 20px;
+    }
+
+    .search-bar {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .weather-icon {
+        width: 100px;
+    }
+
+    .temperature {
+        font-size: 50px;
+    }
+
+    .location {
+        font-size: 20px;
+    }
+
+    .weather-data {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .weather-data .col {
+        font-size: 18px;
+    }
+
+    .weather-data .col span {
+        font-size: 14px;
+    }
+}
