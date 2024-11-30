@@ -1,8 +1,8 @@
 # Weather App 🌤️
 
-# A responsive weather application built with React.
-# Allowing users to search for real-time weather data by city. 
-# The app is designed with a clean and user-friendly interface.
+## A responsive weather application built with React.
+## Allowing users to search for real-time weather data by city. 
+## The app is designed with a clean and user-friendly interface.
 
 ![image](https://github.com/user-attachments/assets/931c1d1f-808a-4e4e-b707-783922cea182)
 
