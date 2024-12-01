@@ -1,5 +1,9 @@
 # Weather App 🌤️
 
+## Demo  
+
+🌐 Live Demo: https://alamin-weather-app.surge.sh/
+
 #### A responsive weather application built with React.
 #### Allowing users to search for real-time weather data by city. 
 #### The app is designed with a clean and user-friendly interface.
